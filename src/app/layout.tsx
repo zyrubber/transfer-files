@@ -52,7 +52,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <Header />
         {children}
-        <!--<Footer />-->
+
         
         {/* Google Analytics */}
         <Script 
